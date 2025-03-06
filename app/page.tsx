@@ -7,13 +7,13 @@ export default function Home() {
         <Image
           className="light:invert"
           src="/meshcore-logo.png"
-          alt="Meshcore logo"
+          alt="MeshCore logo"
           width={350}
           height={48}
           priority
         />
         <div className="list-inside list-decimal text-sm text-center sm:text-center font-[family-name:var(--font-geist-mono)]">
-            Üdvözlünk a magyar Meshcore közösség weboldalán.
+            Üdvözlünk a magyar MeshCore közösség weboldalán.
         </div>
 
        
