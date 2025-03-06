@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MC868.HU - Magyar Meshcore",
-  description: "Magyar Meshcore közösség",
+  title: "MC868.HU - Magyar MeshCore",
+  description: "Magyar MeshCore közösség",
 };
 
 export default function RootLayout({
