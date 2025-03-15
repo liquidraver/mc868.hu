@@ -67,7 +67,7 @@ export default function Home() {
             </li>
 
             <li>
-              <strong>Room Server (Harmadik mód)</strong> – Egy opcionális működési mód, amely az alap feladatköre mellett repeaterként is működhet. Eltárolja az utolsó 16 üzenetet, és azokat elküldi minden újonnan csatlakozó Companion eszköznek.
+              <strong>Room Server</strong> – Egy opcionális működési mód, amely az alap feladatköre mellett repeaterként is működhet. Eltárolja az utolsó 16 üzenetet, és azokat elküldi minden újonnan csatlakozó Companion eszköznek.
             </li>
           </ul>
 
