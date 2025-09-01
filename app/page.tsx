@@ -18,7 +18,7 @@ export default function Home() {
         </div>
 
         <div className="list-inside max-w-3xl  list-decimal text-sm text-center sm:text-center font-[family-name:var(--font-geist-mono)]">
-          Frekvencia: 869.525 MHz - Spreading Factor SF11, Coding Rate 6, Bandwith: 250kHz (ezek nem az alapértelmezett beállítások, át kell állítani)
+          Frekvencia: Jelenleg kialakulóban a hivatalosan ajánlott frekvencia, pillanatnyilag a Slovakia (Narrow) presetet teszteljük Budapest környékén, az internetes térképen sok repeater beállításait is frissen tartjuk. Telegram csatornán érdeklődj!
         </div>
 
 
