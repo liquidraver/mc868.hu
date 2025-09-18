@@ -41,9 +41,21 @@ export default function Home() {
             </button>
           </a>
 
-          <a href="https://github.com/ripplebiz/MeshCore" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/meshcore-dev/MeshCore" target="_blank" rel="noopener noreferrer">
             <button className="bg-gray-700 text-white font-bold py-4 px-4 rounded w-full">
               GitHub
+            </button>
+          </a>
+
+          <a href="https://map.mc868.hu/" target="_blank" rel="noopener noreferrer">
+            <button className="bg-gray-700 text-white font-bold py-4 px-4 rounded w-full">
+              Magyar mesh térkép
+            </button>
+          </a>
+
+          <a href="https://meshcore.co.hu/map.html" target="_blank" rel="noopener noreferrer">
+            <button className="bg-gray-700 text-white font-bold py-4 px-4 rounded w-full">
+              Hivatalos térkép
             </button>
           </a>
         </div>
