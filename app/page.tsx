@@ -18,7 +18,7 @@ export default function Home() {
         </div>
 
         <div className="list-inside max-w-3xl  list-decimal text-sm text-center sm:text-center font-[family-name:var(--font-geist-mono)]">
-          Frekvencia: Jelenleg kialakulóban a hivatalosan ajánlott frekvencia, pillanatnyilag a Slovakia (Narrow) presetet teszteljük Budapest környékén, az internetes térképen sok repeater beállításait is frissen tartjuk. Telegram csatornán érdeklődj!
+          Általunk használt frekvencia és LoRa beállítások: EU/UK (Narrow) - 869.618Mhz / SF8 / BW62.5 / CR8
         </div>
 
 
@@ -49,11 +49,11 @@ export default function Home() {
 
           <a href="https://map.mc868.hu/" target="_blank" rel="noopener noreferrer">
             <button className="bg-gray-700 text-white font-bold py-4 px-4 rounded w-full">
-              Magyar mesh térkép
+              Magyar "élő" mesh térkép
             </button>
           </a>
 
-          <a href="https://meshcore.co.hu/map.html" target="_blank" rel="noopener noreferrer">
+          <a href="https://meshcore.co.uk/map.html" target="_blank" rel="noopener noreferrer">
             <button className="bg-gray-700 text-white font-bold py-4 px-4 rounded w-full">
               Hivatalos térkép
             </button>
