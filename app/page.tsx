@@ -166,7 +166,7 @@ export default function Home() {
                           gombot, a repeatered USB-n rádugva a gépre ezzel az oldallal szinte mindent beállíthatsz rajta.
                         </p>
                         <p>
-                          A Private / Public Key résznél "Auto-choose non-colliding gomb, majd Generate és Save&Set gombokat nyomd végig, így olyan kulcsot kap a repeatered amit tuti nem használ még senki!
+                          A Private / Public Key résznél Auto-choose non-colliding gomb, majd Generate és Save&Set gombokat nyomd végig, így olyan kulcsot kap a repeatered amit tuti nem használ még senki!
                         </p>
                       </div>
                     </div>
