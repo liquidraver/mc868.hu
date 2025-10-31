@@ -105,7 +105,7 @@ export default function Home() {
                             <strong>Flood advert:</strong> az egész mesh megkapja a kulcsodat, minden repeter ismétli
                           </li>
                           <li>
-                            <strong>Zero Hop advert:</strong> csak azok kapják meg a kuclsod akik közvetlen hallják a companion-odat
+                            <strong>Zero Hop advert:</strong> csak azok kapják meg a kulcsod akik közvetlen hallják a companion-odat
                           </li>
                         </ul>
                       </li>
